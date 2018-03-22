@@ -2,7 +2,7 @@
 
 Instgram is a photo sharing app using Parse as its backend.
 
-Time spent: **5** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 The following **stretch** features are implemented:
 
-- [ ] Style the login page to look like the real Instagram login page (+1pt)
+- [x] Style the login page to look like the real Instagram login page (+1pt)
 - [ ] Style the feed to look like the real Instagram feed (+1pt)
 - [ ] User can use a tab bar to switch between all "Instagram" posts and posts published only by the user. AKA, tabs for Home Feed and Profile (+2pt)
 - [ ] Add a custom camera using the CameraManager library (+1pt)
